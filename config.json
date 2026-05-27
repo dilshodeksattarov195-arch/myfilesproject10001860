@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsparse",
+        "uuid": 12361560,
+        "checksum": "87g2sl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
